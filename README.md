@@ -86,6 +86,7 @@ npm start
 The frontend should now run on: http://localhost:3002/
 
 👤 Author
-Shreyash Singh
-RA2211027010159
+Shreyash Singh - RA2211027010159
+Himanshu Gupta - RA2211027010136
+Sayantan Sarkar - RA2211027010138
 GitHub: @shreyashsingh4
